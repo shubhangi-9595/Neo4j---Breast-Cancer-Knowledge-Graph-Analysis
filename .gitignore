@@ -1,0 +1,21 @@
+# Neo4j
+data/
+logs/
+import/
+plugins/
+
+# Large data files
+*.csv
+*.tsv
+*.zip
+*.tar
+*.gz
+
+# Python / misc
+__pycache__/
+.env
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
